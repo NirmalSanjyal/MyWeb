@@ -9,3 +9,5 @@ draft = true
 This is a small static site created with **Hugo* and hosted on **Netlify**
 
 This is for Test Purpose.
+
+These are the changes that are to be displayed on Netlify.

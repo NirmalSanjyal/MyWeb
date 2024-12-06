@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 06 Dec 2024 10:14:21 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Welcome to My Site! This is a small static site created with *Hugo and hosted on Netlify&#xA;This is for Test Purpose.</description>
+      <description>Welcome to My Site! This is a small static site created with *Hugo and hosted on Netlify&#xA;This is for Test Purpose.&#xA;These are the changes that are to be displayed on Netlify.</description>
     </item>
   </channel>
 </rss>
