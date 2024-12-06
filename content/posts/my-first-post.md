@@ -6,4 +6,4 @@ draft = true
 
 ## Welcome to My Site!
 
-This is a small static site created 
+This is a small static site created with **Hugo* and hosted on **Netlify**
